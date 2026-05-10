@@ -1,0 +1,45 @@
+{
+  "stok_bbm": {
+    "premium": 1100.0,
+    "Pertalite": 1000,
+    "Pertamax": 800,
+    "Solar": 1195.0,
+    "Dexlite": 580.0
+  },
+  "harga_bbm": {
+    "premium": 8000,
+    "Pertalite": 10000,
+    "Pertamax": 14000,
+    "Solar": 6800,
+    "Dexlite": 20500
+  },
+  "transaksi": [
+    {
+      "id": 1,
+      "jenis": "Solar",
+      "liter": 5.0,
+      "total": 34000.0,
+      "posisi": "pos4",
+      "petugas": "Admin SPBU",
+      "waktu": "2026-05-05 05:55:23"
+    },
+    {
+      "id": 2,
+      "jenis": "Dexlite",
+      "liter": 10.0,
+      "total": 205000.0,
+      "posisi": "pos5",
+      "petugas": "Admin SPBU",
+      "waktu": "2026-05-05 05:56:58"
+    },
+    {
+      "id": 3,
+      "jenis": "Dexlite",
+      "liter": 10.0,
+      "total": 205000.0,
+      "posisi": "pos5",
+      "petugas": "Admin SPBU",
+      "waktu": "2026-05-05 06:00:25"
+    }
+  ]
+}
